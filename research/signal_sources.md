@@ -61,6 +61,15 @@ Use as starting point for research ONLY. Never as a buy signal.
 4. **Quarterly:** Check WhaleWisdom when 13F filings drop (Feb, May, Aug, Nov)
 5. **Before any buy:** Cross-reference against all sources above
 
+## Brokers for Estonia
+
+| Broker | URL | Best For | Key Advantage |
+|---|---|---|---|
+| **Lightyear** | [lightyear.com](https://lightyear.com/en-ee/) | Individual US stocks, simplicity | Investeerimiskonto built-in, zero ETF fees, Estonian-founded |
+| **Interactive Brokers** | [interactivebrokers.com](https://www.interactivebrokers.com/en/home.php) | US-domiciled ETFs (BOTZ, XBI), advanced trading | 0.03% FX fee (vs 0.35% Lightyear), full product range |
+
+**Recommendation:** Start with Lightyear for individual stocks (DUOL, SDGR, VST, VRT, RLAY, ETN). Switch to IBKR later when portfolio >€10K or if you need US-domiciled ETFs.
+
 ## Key Upcoming Filing Dates
 
 - **Mid-February 2026:** Q4 2025 13F filings drop — shows what hedge funds bought Oct-Dec 2025
