@@ -244,7 +244,14 @@ Nancy Pelosi's latest filing (Jan 23, 2026) shows a **$69 MILLION portfolio rest
 
 **KEY SIGNAL:** Pelosi STILL HOLDS VST. She exercised her options into shares. She's also buying long-dated calls in NVDA/GOOGL/AMZN expiring January 2027. **She's doubling down on AI infrastructure for another year.**
 
-**NEW SIGNAL:** The AllianceBernstein buy ($1-5M) is defensive — dividend income play. She's adding stability to the portfolio. Smart in a wartime environment.
+**NEW SIGNAL:** The AllianceBernstein buy ($1-5M) is defensive — dividend income play. She exited PayPal and Disney entirely. Smart wartime portfolio restructuring.
+
+**OTHER CONGRESSIONAL SIGNALS:**
+- Rep. McCaul (R-TX) bought MSFT, NFLX, INTU while on AI Caucus + Semiconductor Caucus
+- Sen. Ashley Moody (R-FL) traded Eli Lilly ($100K-250K) while on Senate Health Committee — pharma/AI thesis
+- Rep. Ro Khanna sold ASML, Micron for 37-154% gains — taking profits on semis
+- **Trump admin pushing tech companies to sign 15-year contracts for AI power** — directly benefits VST, CEG
+- NANC ETF (Democratic trades) returned 73% since Feb 2023 inception vs S&P ~50%
 
 ---
 
