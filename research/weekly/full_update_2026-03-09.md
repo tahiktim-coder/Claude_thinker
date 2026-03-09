@@ -28,7 +28,16 @@
 | **Dow** | 47,168 | -0.7% | Energy up, everything else down |
 | **Oil (WTI)** | **$100+** | **+50%** | First time over $100 since 2022 |
 
+**All 3 major indices are now NEGATIVE for 2026.** Nasdaq broke below its 200-day moving average for the first time since May 2025.
+
 **Key context:** The S&P 500 CAPE ratio hit 40.2 in January — the highest since the dot-com crash. US market has UNDERPERFORMED global ex-US markets by the worst margin in 30 years.
+
+### 2.5. JOBS REPORT: STAGFLATION WARNING
+- February nonfarm payrolls: **NEGATIVE 92,000 jobs** (vs +55,000 expected) — worst since the pandemic
+- Unemployment rose to **4.4%**
+- Rising oil prices + weakening labor market = **textbook stagflation risk**
+- Energy is the **#1 performing sector in 2026, up 25%+**
+- This is the worst combination for growth stocks and the best for energy/value
 
 ### 3. TARIFF CHAOS CONTINUES
 - Supreme Court struck down Trump's IEEPA tariffs (exceeded presidential authority)
@@ -51,6 +60,8 @@
 **This is the strongest possible signal for our energy infrastructure thesis (VST, VRT, ETN).**
 
 Gartner forecasts total worldwide AI spending at **$2.5 TRILLION** in 2026 (+44% YoY). More than the Manhattan Project, Apollo program, and Interstate Highway System combined.
+
+**NVIDIA confirms the spend is real:** Q4 FY2026 revenue **$68.1 BILLION** (+73% YoY), guided Q1 FY2027 to **$78 BILLION.** BOTZ's largest holding at 10.6%.
 
 ### 5. KEY AI DEVELOPMENTS
 - Deutsche Telekom + Nvidia opened €1B data center in Germany
@@ -216,6 +227,7 @@ Nancy Pelosi's latest filing (Jan 23, 2026) shows a **$69 MILLION portfolio rest
 | **Strait of Hormuz prolonged closure** | Global energy crisis, inflation spike | 25-35% | **VST big winner** (domestic power). ETN wins (grid security). |
 | **Fed forced to raise rates** (inflation from oil) | All growth stocks hammered | 15-20% | RLAY, SDGR, DUOL hurt. ETN, VST more resilient. |
 | **AI CapEx pullback from war** | VRT, ETN demand slows | 10% | Unlikely — $690B already committed. But delayed projects possible. |
+| **Stagflation** (rising inflation + weak jobs) | Growth stocks crushed. Fed paralyzed. | 35-40% | **February jobs: -92K. Oil $100+. This is HAPPENING.** VST/ETN benefit. SDGR/DUOL/RLAY hurt. |
 | **DUOL user growth fails** | Stock drops to $70-80 | 30% | Small position loss. Manageable. |
 
 ### UPDATED SCENARIOS
