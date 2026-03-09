@@ -64,11 +64,35 @@ Gartner forecasts total worldwide AI spending at **$2.5 TRILLION** in 2026 (+44%
 **NVIDIA confirms the spend is real:** Q4 FY2026 revenue **$68.1 BILLION** (+73% YoY), guided Q1 FY2027 to **$78 BILLION.** BOTZ's largest holding at 10.6%.
 
 ### 5. KEY AI DEVELOPMENTS
+
+**Model releases (12+ in February alone — unprecedented pace):**
+- Google Gemini 3.1 Pro (dominates 13/16 benchmarks, 1M-token context)
+- Anthropic Claude Opus 4.6 + Sonnet 4.6
+- OpenAI GPT-5.3 Codex
+- xAI Grok 4.20 (four-agent internal debate architecture)
+- **DeepSeek V4** (~March 3): 1 TRILLION parameters, ~50% compute cost reduction via Sparse Attention. BUT pricing gap is wild: $0.27/M tokens vs ~$60/M for GPT-4. Jevons paradox = more total compute demand, not less.
+- China's Zhipu GLM-5: 744B params, trained entirely on Huawei Ascend chips (US export controls bypassed)
+
+**AI infrastructure is POWER-CONSTRAINED, not demand-constrained:**
+- **Microsoft has $80B in Azure backlog it CANNOT fulfill due to power constraints** — this is the single strongest signal for VST/ETN
+- Amazon going FCF NEGATIVE (-$17B projected) at $200B CapEx
+- Sector may need **$1.5 TRILLION in new debt** to finance AI buildout
+- Meta planning 5GW Louisiana data center facility
 - Deutsche Telekom + Nvidia opened €1B data center in Germany
 - AMD signed $100B deal with Meta for 6GW of AI capacity
-- Shift from training to **inference** (now 2/3 of compute) creating demand for distributed "micro-data centers"
-- Power is THE constraint — AI workloads scaling faster than the grid can handle
-- AI bubble concerns growing, but spending is ACCELERATING not slowing
+
+**AI in drug discovery — directly relevant to SDGR/RLAY:**
+- **NVIDIA + Eli Lilly $1B partnership** for AI drug discovery (5-year deal, co-innovation lab)
+- **AI-native biotechs achieving 80-90% Phase I success rates** vs industry 40-65%
+- 80% of biotech organizations plan to increase AI budgets in next 12 months
+- FDA draft AI guidance expected to be finalized in 2026
+
+**Humanoid robots — BOTZ thesis:**
+- **Boston Dynamics Atlas** moving to commercial production. Hyundai committed $26B, factory producing **30,000 units/year**
+- **Tesla Optimus Gen 3** production begun but Musk admitted no robots doing "useful work" yet
+- **Figure AI Figure 03** — BMW deployment, 12,000 units/year capacity
+- China dominates: **~90% of humanoid market.** Unitree targeting 10-20K shipments in 2026
+- Morgan Stanley forecasts **$5 trillion humanoid market by 2050**
 
 ---
 
