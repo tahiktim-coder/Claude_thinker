@@ -98,12 +98,15 @@ Gartner forecasts total worldwide AI spending at **$2.5 TRILLION** in 2026 (+44%
 | **Price** | ~$248 (was $163) |
 | **WHAT HAPPENED** | **ADDED TO S&P 500 effective March 23, 2026** |
 | **S&P 500 impact** | $7 TRILLION benchmarked to S&P 500 — every passive fund MUST buy VRT shares before March 23 |
-| **Q4 2025 earnings** | Revenue $2.88B (+22.7% YoY). **Organic orders surged 252% YoY.** Backlog now **$15.0 BILLION** (was $9.5B). |
-| **2026 guidance** | 27-29% organic sales growth. **Adjusted EPS growth 42-45%.** |
-| **Analyst targets** | Strong Buy consensus. Average target $260.60. |
-| **AI CapEx tailwind** | $690B in data center spending in 2026. Every data center needs cooling. |
-| **Our thesis** | **CONFIRMED AND THEN SOME.** "Physics demands it" — we said it, the market now agrees. |
-| **Action** | If you own it: **HOLD.** If you don't: the S&P 500 inclusion creates a floor. Consider buying before March 23 but accept you missed the best entry. |
+| **Q4 2025 earnings** | Revenue $2.88B (+22.7% YoY). **Organic orders surged 252% YoY.** Backlog now **$15.0 BILLION** (+109% YoY, was $9.5B). Nearly 2 years of secured revenue. |
+| **2026 guidance** | Revenue $13.25-13.75B. **Adjusted EPS $5.97-6.07 (42-45% growth).** |
+| **ATH** | Hit $264.86 on Feb 25, 2026. Now ~8% below ATH. Up 191% over past year. |
+| **NVIDIA collab** | Advancing **800 VDC power architectures** for NVIDIA Rubin Ultra platforms (2027). $5M DOE COOLERCHIPS grant for joint cooling R&D. |
+| **AI rack power** | AI racks now pushing **120-150kW per rack** (vs 10-15kW in 2023). Only liquid cooling works. |
+| **Analyst targets** | **Unanimous Strong Buy.** 22 Buy, 0 Sell. Average target $263.20. High $320. |
+| **Valuation warning** | **59x earnings.** This is stretched. The market is pricing in perfection. |
+| **Our thesis** | **CONFIRMED AND THEN SOME.** "Physics demands it" — we said it, the market now agrees. But valuation at 59x is a risk if AI CapEx disappoints. |
+| **Action** | If you own it: **HOLD through March 23 S&P inclusion.** If you don't: buy a small position but accept the easy money was made. Consider trimming after index buying completes. |
 
 ### 2. RLAY (Relay Therapeutics) — MASSIVE MOVE (+56%)
 
@@ -148,14 +151,15 @@ Gartner forecasts total worldwide AI spending at **$2.5 TRILLION** in 2026 (+44%
 | Factor | Update |
 |---|---|
 | **Price** | ~$12.74 (was $12.94) — essentially flat |
-| **SGR-3515 data** | **Still expected H1 2026** — could come at any medical meeting in the next 3 months |
-| **SGR-1505** | Initial Phase 1 clinical data already reported |
-| **2026 priorities** | Platform scaling, completing Phase 1 data for both programs, partnerships |
-| **Software** | Attending 3 investor conferences in March (March 3, 10, 17) — signals potential announcements |
+| **FY2025 results** | Total revenue $255.9M (+23.3% YoY). Software revenue $199.5M (+10.6%). Drug discovery revenue $56.4M (more than doubled). |
+| **Q4 software dip** | Q4 software revenue **declined 13%** due to transition from on-premise to hosted/ratable contracts. Near-term pressure. |
+| **Cash** | $402.3M (adequate but not as strong as before). Targeting positive adjusted EBITDA by year-end 2028. |
+| **SGR-3515 data** | **Still expected H1 2026** — management "encouraged by preliminary safety, PK, and PD review" |
+| **SGR-2921** | **DISCONTINUED** — linked to patient deaths. Pipeline narrowed to just 2 clinical assets (SGR-1505 + SGR-3515). **This is a NEW RISK.** |
 | **Short interest** | **17.4% of float — up 22.7% over 12 months.** Bears are piling in. If catalyst hits, short squeeze potential. |
-| **Analyst targets** | $25 median (96% upside). Strong Buy consensus. 9.1/10 rating. |
-| **Our thesis** | Unchanged. Biggest discount, waiting for catalyst. **The story hasn't played out yet — we're still early.** |
-| **Action** | **HOLD. Add more if you have dry powder.** This is the highest-upside name if the data hits. 17% short interest = rocket fuel on good news. |
+| **Analyst targets** | $25 median (96% upside). 7 Buy, 2 Hold. |
+| **Our thesis** | Still intact but riskier. Pipeline is thinner. Software transition pressuring near-term revenue. **The bet is increasingly on platform value + SGR-3515 data.** |
+| **Action** | **HOLD. Smaller adds only.** Pipeline narrowing raises risk. Position sizing matters more now. |
 
 ### 6. BOTZ (Robotics ETF) — HOLDING STEADY (-3%)
 
@@ -174,13 +178,16 @@ Gartner forecasts total worldwide AI spending at **$2.5 TRILLION** in 2026 (+44%
 |---|---|
 | **Price** | ~$149 (was $163) — but volatile intraday |
 | **Q4 2025** | EPS missed ($2.13 vs $2.33 expected). Revenue missed ($4.58B vs $5.3B). But EBITDA beat at $1,742M. |
-| **Full year 2025** | $5.9B adjusted EBITDA. +5% from 2024. At high end of initial guidance. |
-| **2026 outlook** | Reiterated EBITDA, FCF, and asset allocation guidance |
+| **Full year 2025** | $5.9B adjusted EBITDA. FCF ~$3.6B. Targeting $10B+ cash generation through 2027. |
+| **2026 guidance** | **EBITDA $6.8-7.6B** (substantial growth from $5.9B). Reiterated all outlooks. |
+| **Cogentrix acquisition** | **$4.7B deal adding ~5,500 MW gas-fired generation** specifically to serve AI data center demand |
+| **Nuclear deal** | Comanche Peak: 20-year supply agreement, 1,200 MW, starting Q4 2027 |
+| **Hyperscaler deals** | Meta: 2,600+ MW. Amazon/Microsoft: $700M solar+storage in Texas+Illinois. |
 | **Iran oil shock** | **THIS IS BULLISH FOR VST.** Oil over $100 = domestic power generation becomes premium. VST has nuclear + gas + renewables = diversified domestic energy. |
-| **Pelosi** | **Still holding 5,000 shares.** Her Jan 16 trades show she also exercised NVDA, GOOGL, AMZN options. She bought AB (AllianceBernstein) for income/defense. |
-| **Analyst targets** | Average $233.45 (57% upside). Scotiabank target $293. |
-| **Our thesis** | The pullback is a BUYING OPPORTUNITY. Missed Q4 earnings but management reiterated 2026 outlook. Iran crisis makes domestic energy MORE valuable. |
-| **Action** | **BUY the dip.** $149 is cheaper than our original $163 entry. Oil crisis = tailwind for domestic power. |
+| **Pelosi** | **Still holding 5,000 shares.** Exercised in January alongside NVDA, GOOGL, AMZN options. |
+| **Analyst targets** | Median $234.50 (57% upside). 18 Buy, 2 Hold, 1 Sell. **Scotiabank $293 target.** |
+| **Our thesis** | The pullback is a BUYING OPPORTUNITY. Cogentrix + nuclear deals = massive capacity expansion for AI. Iran crisis makes domestic energy MORE valuable. |
+| **Action** | **BUY the dip.** $149 is cheaper than our original $163 entry. Best risk/reward in the portfolio right now. |
 
 ### 8. DUOL (Duolingo) — THE PAIN TRADE (-32%)
 
