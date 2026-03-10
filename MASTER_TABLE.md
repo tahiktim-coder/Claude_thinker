@@ -1,8 +1,8 @@
 # MASTER STOCK TABLE — Every Name We've Analyzed
 
-*Updated: March 9, 2026*
-*All prices approximate as of March 9, 2026*
-*Previous update: February 6, 2026*
+*Updated: March 10, 2026*
+*All prices approximate as of March 10, 2026*
+*Previous update: March 9, 2026*
 
 ---
 
@@ -12,13 +12,13 @@
 
 | # | Ticker | Company | Sector | Price | 1-Mo Change | Off High | Rev Growth | Profitable? | Insider Signal | Verdict |
 |---|--------|---------|--------|-------|------------|----------|-----------|-------------|----------------|---------|
-| 1 | **VRT** | Vertiv | Energy/Cooling | **$248** | **+52%** | -6% (52wk) | +22.7% (Q4), orders +252% | Yes | Sen. King bought July 2025 | **HOLD. Joining S&P 500 March 23.** $15B backlog. 42-45% EPS growth guided. |
-| 2 | **RLAY** | Relay Therapeutics | Biotech/Drug | **$10.30** | **+56%** | -10% (52wk) | Pre-revenue | No, $554M cash | FDA Breakthrough Therapy | **HOLD. ESMO data March 16.** Breakthrough Therapy = major de-risk. |
-| 3 | **ETN** | Eaton | Energy/Grid | **$352** | **+26%** | -14% (ATH $408) | +7-9% guided | Yes, record Q4 | None (under radar) | **HOLD.** Record $19.6B backlog. Dividend raised 6%. BofA PT $432. |
+| 1 | **VRT** | Vertiv | Energy/Cooling | **$264** | **+52%** | Near ATH | +22.7% (Q4), orders +252% | Yes | Sen. King bought July 2025 | **HOLD. Joining S&P 500 March 23.** $15B backlog. Near ATH on inclusion news. |
+| 2 | **RLAY** | Relay Therapeutics | Biotech/Drug | **$10.30** | **+56%** | -10% (52wk) | Pre-revenue | No, $554M cash | FDA Breakthrough Therapy | **HOLD. ESMO data March 16 (6 DAYS).** Binary catalyst. |
+| 3 | **ETN** | Eaton | Energy/Grid | **$348** | **+26%** | -14% (ATH $408) | +7-9% guided | Yes, record Q4 | Ex-div today $1.10 | **HOLD.** Record $19.6B backlog. Dividend raised 6%. BofA PT $432. |
 | 4 | **XBI** | SPDR Biotech | Biotech ETF | **$125** | **+25%** | N/A | N/A | N/A | N/A | **HOLD.** +41.6% 1-year return. Biotech broadly strong. |
-| 5 | **SDGR** | Schrödinger | Biotech/Software | **$12.74** | **-2%** | -54% (52wk) | +28% (software) | No (improving) | 17.4% short interest | **BUY/HOLD.** SGR-3515 data H1 2026. Analyst PT $25. Short squeeze potential. |
+| 5 | **SDGR** | Schrödinger | Biotech/Software | **$12.76** | **-2%** | -54% (52wk) | +28% (software) | No (improving) | 17.4% short interest | **HOLD.** SGR-3515 data H1 2026. Don't add — pipeline narrowed. |
 | 6 | **BOTZ** | Robotics & AI ETF | Robotics | **$36-37** | **-3%** | -7% (52wk) | N/A | N/A | N/A | **HOLD.** +21.9% 1-year. Patient play. |
-| 7 | **VST** | Vistra | Energy/Power | **$149** | **-9%** | -32% (ATH $220) | EBITDA $5.9B | Yes | **Pelosi STILL HOLDING** | **BUY THE DIP.** Iran oil crisis = domestic energy premium. Analyst PT $233. |
+| 7 | **VST** | Vistra | Energy/Power | **$162** | **-9%** | -26% (ATH $220) | EBITDA $5.9B | Yes | **Pelosi STILL HOLDING** | **BUY THE DIP.** Iran oil crisis = domestic energy premium. PT $234-$293. |
 | 8 | **DUOL** | Duolingo | EdTech/AI | **$102** | **-32%** | -80% (ATH) | +35% (Q4), +38.7% (FY) | Yes ($414M earnings) | None | **HOLD/WATCH.** Strategic pivot spooked market. Wait for Q1 results. |
 
 ### ETFs (Diversified Base)
