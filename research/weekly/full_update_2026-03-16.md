@@ -5,9 +5,16 @@
 ### 1. RLAY ESMO TAT Data Readout — TODAY (March 16)
 - **Oral Proffered Paper** at ESMO Targeted Anticancer Therapies Congress, Paris
 - **Time:** 4:00 PM CET / 11:00 AM ET
-- Presenting RLY-2608 data — FDA Breakthrough Therapy designation holder
-- **This is a BINARY catalyst** — stock could move significantly in either direction
-- **Action:** Monitor after 11am ET for results. If positive → strong buy signal. If disappointing → reassess thesis.
+- **Title:** "Dose optimization of zovegalisib (RLY-2608), a novel PI3Ka inhibitor, in PIK3CA-mutant HR+/HER2- advanced breast cancer"
+- **What's being presented:** First public disclosure of **400mg BID fed dose (Phase 3 dose)** data from 57 patients
+- **Key question:** Does 400mg fed match the previously reported 600mg fasted efficacy?
+- **Prior data (600mg fasted, n=52):** Median PFS 10.3 months, ORR 39%, Grade 3 hyperglycemia only 3%
+- **Kinase mutation subgroup:** Median PFS 18.4 months (exceptional)
+- **Guggenheim raised target to $22 on March 13** (from $15) — likely positioning for positive data
+- **Analyst consensus:** 11-12 analysts, ALL Buy, zero Sells. Targets: $11-$22 range.
+- **Cash runway:** $554.5M, projected into 2029
+- **Phase 3 ReDiscover-2:** 540-patient trial vs. capivasertib already enrolling, results 2027+
+- **Action:** Monitor after 11am ET. If 400mg fed matches 600mg fasted → major re-rating. If not → reassess.
 
 ### 2. VRT S&P 500 Inclusion — March 23 (7 days away)
 - Joining alongside LITE, COHR, SATS (replacing MTCH, MOH, LW, PAYC)
@@ -40,7 +47,18 @@
 - US gas: $3.41/gal national avg (+$0.43/week), California >$5/gal
 - IEA: Global oil supply to drop 8 mb/d in March
 - **Scenarios:** Deal in 4 weeks → Brent ~$70 EOY; prolonged → $100+; tail risk → $130+
+- **IEA released 400M barrels** from strategic reserves (largest ever)
+- Iran's supreme leader Khamenei killed in strikes; new leader vowed to keep Hormuz closed
 - **Impact on portfolio:** Energy thesis (VST, VRT, ETN) STRENGTHENED. Recession risk is the counterweight.
+
+### Stagflation Warning — ELEVATED
+- **February jobs:** Economy SHED 92,000 jobs; unemployment at 4.4%
+- **Core PCE:** 3.0% (well above Fed's 2% target)
+- **Q4 2025 GDP:** Only 1.4% (dragged by 43-day government shutdown)
+- **Ed Yardeni:** Raised 1970s-style stagflation odds to **35%**
+- **Apollo Academy:** "Fed sees stagflation as biggest risk in 2026"
+- **ABN AMRO:** Report titled "This is What Stagflation Looks Like"
+- **Fed is trapped:** Weak growth → needs cuts, hot inflation → needs holds. Iran oil shock makes it worse.
 
 ### AI Efficiency — DeepSeek V4 Launched
 - **DeepSeek V4:** 1 trillion parameters, only 32B active per token (fewer than V3 despite being larger)
@@ -48,8 +66,30 @@
 - New "Manifold-Constrained Hyper-Connections" architecture — ~6.7% overhead only
 - **Jevons Paradox still holds:** Cheaper AI → MORE total compute demand, not less → bullish for energy infra
 
+### Hyperscaler CapEx — Unprecedented
+| Company | 2026 CapEx | Notes |
+|---------|-----------|-------|
+| Amazon | ~$200B | Largest spender; negative FCF projected |
+| Alphabet | ~$185B | Cloud + Gemini models |
+| Microsoft | ~$145B | Slower growth vs peers |
+| Meta | $115-135B | Superintelligence Labs |
+| **TOTAL** | **$635-665B** | **+67-74% YoY from $381B in 2025** |
+- ~75% is AI infrastructure → bullish for VRT, VST, ETN
+- Free cash flow could drop 90% for some hyperscalers
+- All report **supply-constrained** (not demand-constrained) markets
+
+### AI Bubble Metrics — Growing Concern
+- AI sector burns **$400B/year**, generates only **$50-60B revenue**
+- Consumer AI spending: ~$12B/year vs $500B+ in capex
+- **90% of firms report NO productivity impact** (NBER Feb 2026)
+- Top 5 companies = 30% of S&P 500 (highest in 50 years)
+- Unlike dot-com (equity-funded), current boom is **debt-financed** — systemic risk
+- Sam Altman: investors "overexcited"; Jeff Bezos called it an "industrial bubble"
+- **BUT:** Unlike dot-com, led by profitable megacaps spending from cashflow
+
 ### AI Model Pace
 - 255+ model releases in Q1 2026, tracking toward 1,000+ for the year
+- **One major release every ~72 hours:** GPT-5.4 (Mar 4), DeepSeek V4 (Mar 3), Gemini 3.1 Flash-Lite
 - This validates the thesis: AI adoption is accelerating, not plateauing
 
 ---
