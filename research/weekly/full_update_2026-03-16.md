@@ -119,13 +119,30 @@
 
 | Ticker | Price (Mar 15) | Key Development | Signal Strength |
 |--------|---------------|-----------------|----------------|
-| **VST** | ~$158.95 | Q4 miss but Jefferies upgraded to Buy; Pelosi STILL HOLDING + exercised 5K shares; avg target $234 | STRONG BUY |
-| **VRT** | ~$258.88 | S&P 500 inclusion Mar 23; 22 Buy/0 Sell; ATH $276.78 | STRONG BUY (time-sensitive) |
-| **ETN** | ~$355.40 | $75M Span investment; new CFO; vehicle/eMobility spinoff planned; dividend raised | BUY |
-| **XBI** | — | Biotech sector awaiting RLAY catalyst today | WATCH |
-| **BOTZ** | — | Robotics sector steady | HOLD watchlist |
-| **DUOL** | — | Need updated price check | WATCH |
-| **GEV** | — | GE Vernova — note Rep. Davidson's +78.8% returns driven by GE/GEV purchases | WATCH |
+| **VST** | ~$158.95 | Q4 EPS MISS ($0.54 vs $2.31 est) but 20-yr Meta nuclear PPAs + Cogentrix acquisition; Pelosi exercised 5K shares; avg target $226 | STRONG BUY (long-term) |
+| **VRT** | ~$258.88 | S&P 500 inclusion Mar 23; 22 Buy/0 Sell; ATH $276.78; $15B backlog; 800 VDC NVIDIA partnership H2 2026 | STRONG BUY (time-sensitive) |
+| **ETN** | ~$355.40 | 6% dividend hike; new CFO; "unprecedented" data center demand; guides EPS $13-13.50; target $408 | BUY |
+| **XBI** | ~$121 | "Biotech Bloodbath" headlines; -$495M fund outflows; above 52-wk low $66.66 | WATCH (contrarian?) |
+| **BOTZ** | ~$34.83 | Pulled back from Feb peak; top holdings NVDA 11.2%, ABB 10.6%, Fanuc 9% | HOLD watchlist |
+| **DUOL** | ~$98 | **REMOVE** — Down 82% from $540 ATH; mass downgrades (Citi/JPM/BofA); T-Mobile threat; investor investigation | AVOID |
+| **GEV** | ~$805 | **NEW TOP PICK** — Q4 EPS beat by 316%; orders +34% to $59B; backlog approaching $200B; up 168% in 12mo | STRONG BUY |
+
+### GEV Deep Dive — Why This May Be THE Energy Pick
+- **GE Vernova at $805** — strongest fundamental momentum on entire watchlist
+- Q4 earnings beat by **316%** — not a typo
+- Orders +34% to $59B, backlog approaching $200B
+- Up 168% in 12 months, analyst avg target $861 (Strong Buy consensus)
+- **Rep. Warren Davidson's** +78.8% returns in 2025 were driven by GE/GEV purchases
+- Direct play on energy infrastructure + power generation for AI data centers
+- **Risk:** Already expensive, but backlog provides years of earnings visibility
+
+### DUOL Warning — Thesis Broken
+- Plunged 22% post-earnings on growth pivot announcement
+- T-Mobile launching competitive language product
+- Citi, JPM, BofA ALL downgraded simultaneously
+- Investor investigation underway
+- Down 82% from ATH $540 → ~$98
+- **Verdict:** Remove from watchlist entirely. Thesis is broken.
 
 ---
 
@@ -187,10 +204,12 @@
 5. **VST:** Still the cheapest quality energy play at $159 vs. $234 avg target (+47% upside). Pelosi confirming. Iran war thesis strengthens energy.
 
 ### STRATEGIC
-6. **Portfolio rebalance needed:** Still 29% in RXRX (lowest conviction). Consider trimming into any GTC rally to fund VRT/VST positions.
-7. **Energy exposure:** ZERO energy in portfolio despite it being strongest thesis (8/10 conviction). Iran war makes this urgent.
-8. **TEM investigation:** New Pelosi signal — research Tempus AI as potential add
-9. **FPS IPO:** Watch Forgent Power Solutions IPO — fits energy infrastructure thesis perfectly
+6. **Portfolio rebalance needed:** Still 29% in RXRX (lowest conviction). Consider trimming into any GTC rally to fund energy positions.
+7. **Energy exposure is URGENT:** ZERO energy in portfolio. GEV ($805, 316% EPS beat, $200B backlog) or VST ($159, Pelosi confirmed) or VRT ($259, S&P inclusion).
+8. **GEV investigation:** Strongest fundamentals on entire watchlist. Orders $59B, backlog $200B, up 168% in 12mo. Price high but earnings visibility exceptional.
+9. **TEM investigation:** New Pelosi signal — research Tempus AI as potential add
+10. **FPS IPO:** Watch Forgent Power Solutions IPO — fits energy infrastructure thesis perfectly
+11. **DUOL:** REMOVE from all watchlists — thesis broken, mass downgrades, investor investigation
 
 ---
 
@@ -204,6 +223,7 @@
 | Fed policy error | MEDIUM | ↑ | Caught between inflation and growth |
 | DeepSeek efficiency | LOW | ↓ | V4 confirms Jevons Paradox (more demand) |
 | Tariff escalation | MEDIUM | → | Ongoing uncertainty |
+| Stagflation | HIGH | ↑ | -92K jobs, Core PCE 3.0%, Yardeni 35% odds |
 | Portfolio concentration | HIGH | → | 29% RXRX, 0% energy — misaligned with thesis |
 
 ---
@@ -213,9 +233,12 @@
 **The portfolio has a serious alignment problem.** Research says energy infrastructure is the highest conviction thesis (8/10), yet the portfolio has ZERO energy exposure. Meanwhile, 29% sits in RXRX (lowest conviction consensus pick).
 
 **Priority actions:**
-1. Watch RLAY ESMO data today — binary event
+1. Watch RLAY ESMO data today at 11am ET — binary event. Guggenheim already at $22 target.
 2. Buy VRT before March 23 inclusion (+8.8% historical avg pre-inclusion)
-3. Add VST — Pelosi confirming, Iran war thesis, $234 target vs $159 price
-4. Consider trimming RXRX into any NVIDIA GTC rally
+3. Research GEV seriously — 316% EPS beat, $200B backlog, strongest fundamentals on watchlist
+4. Add VST — Pelosi confirming, Iran war thesis, $226 target vs $159 price
+5. Trim RXRX into any NVIDIA GTC rally → redeploy to energy
 
-**New signals worth investigating:** TEM (Pelosi buy), FPS IPO (energy infra), KTOS (defense AI), CRM (massive insider buying)
+**New signals worth investigating:** TEM (Pelosi buy), FPS IPO (energy infra), KTOS (defense AI), CRM ($24.6M insider buying), GEV (Rep. Davidson's top performer)
+
+**REMOVE:** DUOL — thesis broken, mass downgrades, -82% from ATH, investor investigation
