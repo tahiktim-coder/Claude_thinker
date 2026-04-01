@@ -1,160 +1,119 @@
 # MASTER STOCK TABLE — Every Name We've Analyzed
 
-*Updated: March 10, 2026*
-*All prices approximate as of March 10, 2026*
-*Previous update: March 9, 2026*
+*Updated: April 1, 2026*
+*All prices approximate as of March 31 / April 1, 2026*
+*Previous update: March 10, 2026*
 
 ---
 
 ## THE COMPLETE TABLE
 
-### OUR PICKS (Active Buy List)
+### CURRENT PORTFOLIO (What We Actually Own)
 
-| # | Ticker | Company | Sector | Price | 1-Mo Change | Off High | Rev Growth | Profitable? | Insider Signal | Verdict |
-|---|--------|---------|--------|-------|------------|----------|-----------|-------------|----------------|---------|
-| 1 | **VRT** | Vertiv | Energy/Cooling | **$264** | **+52%** | Near ATH | +22.7% (Q4), orders +252% | Yes | Sen. King bought July 2025 | **HOLD. Joining S&P 500 March 23.** $15B backlog. Near ATH on inclusion news. |
-| 2 | **RLAY** | Relay Therapeutics | Biotech/Drug | **$10.30** | **+56%** | -10% (52wk) | Pre-revenue | No, $554M cash | FDA Breakthrough Therapy | **HOLD. ESMO data March 16 (6 DAYS).** Binary catalyst. |
-| 3 | **ETN** | Eaton | Energy/Grid | **$348** | **+26%** | -14% (ATH $408) | +7-9% guided | Yes, record Q4 | Ex-div today $1.10 | **HOLD.** Record $19.6B backlog. Dividend raised 6%. BofA PT $432. |
-| 4 | **XBI** | SPDR Biotech | Biotech ETF | **$125** | **+25%** | N/A | N/A | N/A | N/A | **HOLD.** +41.6% 1-year return. Biotech broadly strong. |
-| 5 | **SDGR** | Schrödinger | Biotech/Software | **$12.76** | **-2%** | -54% (52wk) | +28% (software) | No (improving) | 17.4% short interest | **HOLD.** SGR-3515 data H1 2026. Don't add — pipeline narrowed. |
-| 6 | **BOTZ** | Robotics & AI ETF | Robotics | **$36-37** | **-3%** | -7% (52wk) | N/A | N/A | N/A | **HOLD.** +21.9% 1-year. Patient play. |
-| 7 | **VST** | Vistra | Energy/Power | **$162** | **-9%** | -26% (ATH $220) | EBITDA $5.9B | Yes | **Pelosi STILL HOLDING** | **BUY THE DIP.** Iran oil crisis = domestic energy premium. PT $234-$293. |
-| 8 | **DUOL** | Duolingo | EdTech/AI | **$102** | **-32%** | -80% (ATH) | +35% (Q4), +38.7% (FY) | Yes ($414M earnings) | None | **HOLD/WATCH.** Strategic pivot spooked market. Wait for Q1 results. |
+| # | Ticker | Company | Sector | Price | Position Value | Change | Analyst PT | Verdict |
+|---|--------|---------|--------|-------|---------------|--------|-----------|---------|
+| 1 | **CEVA** | CEVA Inc | Edge AI / Semicon IP | ~$18.22 | $287.82 | -3.96% | $31.83 (Strong Buy) | **BEST PICK. HOLD + ADD.** Insiders buying. 7 Buy ratings. Near 52-wk low. Coiled spring. |
+| 2 | **INOD** | Innodata | AI Data Services | ~$37.12 | $219.96 | -11.91% | $100 (Strong Buy) | **HOLD.** Revenue +48% YoY. Palantir partnership. $25M gov contract. Customer concentration risk. |
+| 3 | **RXRX** | Recursion Pharma | Biotech/AI Drug | ~$2.87 | $132.66 | -11.44% | $6.71 | **TRIM.** Consensus pick = no edge. Near 52-wk low ($2.80). New CMO positive but thesis weak. |
+| 4 | **AMSC** | American Superconductor | Grid Infrastructure | ~$34.78 | $122.81 | **+22.93%** | $52 (Strong Buy) | **WINNER. HOLD.** Only green position. Backlog $250M+. Comtrafo acquisition. Grid thesis validated. |
+| 5 | **RLAY** | Relay Therapeutics | Biotech/AI Drug | ~$9.54 | $95.30 | -4.60% | $16.86 (Strong Buy) | **HOLD.** ESMO data excellent (11.1mo PFS, 43% ORR). FDA BTD. Cash to 2029. Phase 3 enrolling. |
+| 6 | **SDGR** | Schrodinger | Biotech/Software | ~$11.01 | $83.91 | -16.00% | $25 median | **HOLD FOR CATALYST.** SGR-3515 data Q2 2026. 17.5% short interest. High risk but asymmetric. |
+| 7 | **VST** | Vistra | Energy/Power | ~$155 | $74.67 | -0.31% | $234 (Buy) | **HOLD + ADD.** Pelosi confirmed Jan 2026. Fitch upgrade. EBITDA +22% YoY. Iran = bullish. |
+| 8 | **SOUN** | SoundHound AI | Voice AI | ~$5.93 | $61.83 | -20.20% | $14.93 | **SELL.** C-suite mass selling Mar 20. Hit 52-wk low. Revenue growth decelerating. Dead weight. |
 
-### ETFs (Diversified Base)
+### WATCHLIST (Interesting but Not Yet Owned)
 
-| # | Ticker | Name | Sector | Price | Exp. Ratio | What You Get | Verdict |
-|---|--------|------|--------|-------|------------|-------------|---------|
-| 7 | **BOTZ** | Global X Robotics & AI | Robotics | $38 | 0.47% | NVDA, Fanuc, ISRG, Keyence, ABB | **BUY.** Best single robotics exposure. |
-| 8 | **XBI** | SPDR S&P Biotech | Biotech | ~$100 | 0.35% | Equal-weight biotech, catches AI rising tide | **BUY if simplifying.** Up 29% in 2025. |
+| # | Ticker | Company | Sector | Price | Off High | Key Signal | Verdict |
+|---|--------|---------|--------|-------|----------|-----------|---------|
+| 9 | **GEV** | GE Vernova | Energy/Gas+Grid | ~$810 | -9% (ATH ~$895) | Q4 EPS beat 316%. Backlog $200B. Rep. Davidson top trade. | **TOP WATCHLIST.** Best energy fundamentals. Fractional shares only. |
+| 10 | **TEM** | Tempus AI | Healthcare AI | ~$65 | varies | Pelosi bought 5K shares Jan 2026. AI diagnostics. | **RESEARCH MORE.** Congressional signal. |
+| 11 | **KTOS** | Kratos Defense | AI Drones/Defense | ~$91 | -varies | Iran war = drone demand. $1.57B backlog ATH. | **WAIT.** P/E 694x. Buy on pullback to $70-75. |
+| 12 | **AVGO** | Broadcom | AI Chips | ~$175 | varies | 3 Congress members bought last 90 days. AI rev $12B. | **QUALITY.** Expensive but proven. |
+| 13 | **FPS** | Forgent Power Solutions | AI Power Infra | IPO pending | N/A | AI power infrastructure. Fits thesis perfectly. | **WATCH FOR IPO.** |
+| 14 | **ETN** | Eaton | Energy/Grid | ~$355 | -14% (ATH $408) | Record $19.6B backlog. Boring = edge. | **BUY on pullback.** Transformer shortage = pricing power. |
 
-### WATCHLIST (Interesting but Not Core)
+### REMOVED FROM WATCHLIST
 
-| # | Ticker | Company | Sector | Price | Off High | Rev Growth | P/E | Why Watchlist Not Buy |
-|---|--------|---------|--------|-------|----------|-----------|-----|----------------------|
-| 9 | **TEM** | Tempus AI | Healthcare AI | ~$65 | +225% from Pelosi's entry | Growing | High | You'd buy after Pelosi's 105% gain. Wait for pullback. |
-| 10 | **MOD** | Modine Mfg | Energy/Cooling | ~$100 | -15% | +42% DC revenue | ~25x | Smaller, less liquid. Good but VRT is better pure-play. |
-| 11 | **GEV** | GE Vernova | Energy/Gas+Grid | ~$340 | -20% | +34% EPS | ~35x | Quality but expensive. $150B backlog. Better at $280-300. |
-| 12 | **FIGR** | Figure AI | Robotics | Varies | Post-IPO | Pre-revenue | N/A | Druckenmiller + Soros bought. Watch but very speculative. |
+| Ticker | Company | Why Removed | Date |
+|--------|---------|-------------|------|
+| **DUOL** | Duolingo | Thesis broken. Mass downgrades (Citi/JPM/BofA). -82% from ATH. T-Mobile threat. Investor investigation. | March 16, 2026 |
+| **VRT** | Vertiv | Joined S&P 500 March 23. Now $258+. Missed entry. Good company, train has left. | April 1, 2026 |
+| **MOD** | Modine | Too small, less liquid. VRT/AMSC better alternatives. | March 2026 |
 
 ### SKIP LIST (Analyzed and Rejected)
 
-| # | Ticker | Company | Sector | Price | Off High | Why We're Skipping |
-|---|--------|---------|--------|-------|----------|-------------------|
-| 13 | **RXRX** | Recursion Pharma | Biotech | $4.06 | -67% | **Every AI chatbot recommends it. Consensus = no edge.** No Phase 3. Hold rating. Down 67% despite being consensus. SDGR and RLAY have more edge. |
-| 14 | **CEG** | Constellation Energy | Energy/Nuclear | $287 | -31% | Up 525% since 2022. 32x forward P/E. Quality but expensive. VST is cheaper same thesis. |
-| 15 | **CCJ** | Cameco | Energy/Uranium | ~$55 | -25% | **Up 800% in 5 years.** The Nvidia-like run already happened. Crowded. |
-| 16 | **SMR** | NuScale Power | Energy/Nuclear | ~$19 | -50% | Pre-revenue. Zacks Strong Sell. $4.6B market cap on $37M revenue. Cancelled Utah project. Lottery ticket with bad odds. |
-| 17 | **OKLO** | Oklo | Energy/Nuclear | varies | -50% | Even more speculative than SMR. No approved reactor. Avoid. |
-| 18 | **ABSI** | Absci | Biotech | $2.92 | -70% | Morgan Stanley downgraded Jan 2026. $4.5M revenue on $103M loss. If you want biotech risk, RLAY has better cash runway. |
-| 19 | **TSLA** | Tesla | Robotics/Auto | ~$350 | varies | Optimus is <5% of thesis. You're buying a car company. Not a robotics play. |
-| 20 | **RGTI/IONQ** | Quantum stocks | Quantum | varies | -60% from peaks | 5,400% run already happened. Pre-revenue at $10B+ valuations. Bubble. |
+| # | Ticker | Company | Sector | Price | Why We're Skipping |
+|---|--------|---------|--------|-------|-------------------|
+| 15 | **RXRX** | Recursion Pharma | Biotech | ~$2.87 | Still consensus. Still no edge. Now near 52-wk low ($2.80) despite being most-recommended. Moving to TRIM. |
+| 16 | **CEG** | Constellation Energy | Nuclear | ~$287 | Up 525% since 2022. 32x forward P/E. VST is cheaper same thesis. |
+| 17 | **CCJ** | Cameco | Uranium | ~$55 | Up 800% in 5 years. Crowded. |
+| 18 | **SMR** | NuScale Power | Nuclear | ~$19 | Pre-revenue. Zacks Strong Sell. |
+| 19 | **OKLO** | Oklo | Nuclear | varies | No approved reactor. Avoid. |
+| 20 | **TSLA** | Tesla | Auto/Robotics | ~$350 | Not a robotics pure-play. |
+| 21 | **RGTI/IONQ** | Quantum stocks | Quantum | varies | Pre-revenue at $10B+ valuations. Bubble. |
+| 22 | **DUOL** | Duolingo | EdTech | ~$98 | THESIS BROKEN. Mass downgrades. Investor investigation. |
 
 ---
 
-## DUOLINGO (DUOL) — The New Addition
+## PORTFOLIO ALLOCATION TARGETS
 
-This is genuinely one of the best setups on our entire board. Let me show you why:
-
-| Metric | DUOL | For Context |
-|---|---|---|
-| **Price** | ~$150 | |
-| **All-time high** | ~$500 (2024) | |
-| **Off highs** | **-70%** | Deepest discount of any profitable company we've analyzed |
-| **Revenue growth** | **+40% YoY** | Faster than NVDA's current growth |
-| **Trailing P/E** | **18.7x** | CHEAPER than VST (18x) and S&P avg (23x). For a 40% grower! |
-| **Forward P/E** | 37.8x | Still reasonable for growth rate |
-| **Earnings** | $89M profit (up 451%) | Actually making money |
-| **ROE** | 36.25% | Excellent |
-| **Debt/Equity** | 0.07 | Basically debt-free |
-| **Cash** | Strong (current ratio 2.82) | No dilution risk |
-| **Analyst target** | $281 avg | **+87% upside** |
-| **Short interest** | 13.9% | Bears are betting against it — could short squeeze |
-| **DAU growth** | +36% YoY | Users still flooding in |
-| **Next earnings** | Feb 26, 2026 | Potential catalyst in 3 weeks |
-
-**Why is it down 70%?**
-- Market fears AI (ChatGPT) will replace language learning apps
-- Bookings growth slowed slightly (33% vs 40% prior)
-- General tech multiple compression
-
-**Why the bears are probably wrong:**
-- Duolingo IS an AI company — they use AI for content generation, personalization, and have massive proprietary learning data
-- 40% revenue growth + profitability at 18x PE is absurdly cheap
-- ChatGPT can teach vocabulary but can't gamify learning, track streaks, or build community — Duolingo's moat is engagement, not content
-- The 451% earnings growth proves the business model is scaling efficiently
-
-**The AI angle:** Duolingo is a **second-order AI beneficiary** — they USE AI to make their product better (cheaper content creation, personalized lessons). They're an AI adopter, not an AI builder. As our devil's advocate research pointed out: historically, companies that USE transformative technology outperform companies that BUILD it (Netflix > Cisco).
-
-**Sector:** EdTech / AI Applications
+| Sector | Current % | Target % | Action Needed |
+|--------|----------|----------|--------------|
+| Edge AI / Semicon IP (CEVA) | 30.8% | 20-25% | Slightly over but best pick — acceptable |
+| AI Data Services (INOD) | 23.6% | 15-20% | Slightly over — hold, don't add |
+| Biotech / AI Drug (RXRX, RLAY, SDGR) | 33.4% | 20-25% | OVERWEIGHT — trim RXRX |
+| Energy / Grid (AMSC, VST) | 21.2% | 25-30% | UNDERWEIGHT — add more |
+| Voice AI / Speculative (SOUN) | 6.6% | 0% | SELL |
 
 ---
 
-## UPDATED FINAL ALLOCATION: €3K + €300-500/mo
+## KEY CATALYSTS CALENDAR
 
-Given Duolingo's addition, here's the revised split:
-
-### Phase 1: First €1K (Deploy Now)
-
-| Stock | Amount | Sector | Why This First |
-|---|---|---|---|
-| **SDGR** | €300 | Biotech/Software | -54% off high, software moat, H1 2026 catalyst |
-| **VST** | €250 | Energy/Power | Pelosi holding, 18x PE, $1B buyback |
-| **DUOL** | €250 | EdTech/AI | -70% off ATH, 40% growth at 18x PE. Earnings Feb 26 — get in before. |
-| **RLAY** | €200 | Biotech/Drug | -67%, $840M cash, Phase 3 catalyst |
-
-### Phase 2: Next €1K (Month 2)
-
-| Stock | Amount | Sector | Why |
-|---|---|---|---|
-| **BOTZ** | €400 | Robotics ETF | Diversified base, holds the winners |
-| **VRT** | €350 | Energy/Cooling | Nvidia partnership, Sen. King bought it |
-| **Add to DUOL or SDGR** | €250 | — | Whichever is lower after month 1 |
-
-### Phase 3: Final €1K (Month 3)
-
-| Stock | Amount | Sector | Why |
-|---|---|---|---|
-| **ETN** | €350 | Energy/Grid | Boring = edge. Transformer shortage pricing power. |
-| **XBI** | €350 | Biotech ETF | Broad biotech safety net |
-| **Add to strongest** | €300 | — | Double down on what's working |
-
-### Monthly €300-500 After That
-
-| Rule | Action |
-|---|---|
-| Every month | €150-250 into weakest position (buy the dip) |
-| Every month | €150-250 into strongest position (ride momentum) |
-| Quarterly | Rebalance if any position >20% |
-| Before any buy | Check Capitol Trades + Unusual Whales |
+| Date | Event | Stocks Affected |
+|------|-------|----------------|
+| Q2 2026 | SGR-3515 Phase 1 initial data | SDGR |
+| H1 2026 | Zovegalisib vascular anomaly Phase 1 data | RLAY |
+| H1 2026 | Zovegalisib triplet combo data | RLAY |
+| May 7, 2026 | SoundHound AI earnings | SOUN |
+| May 13, 2026 | CEVA earnings | CEVA |
+| May 2026 | Fed Powell term expires; Kevin Warsh expected | All (dovish signal) |
+| 2027+ | ReDiscover-2 Phase 3 results | RLAY |
+| Ongoing | Iran war resolution / escalation | VST, AMSC, energy broadly |
+| Ongoing | Hyperscaler CapEx announcements ($635-665B in 2026) | All AI infrastructure |
+| Q4 2026 | OpenAI IPO expected (~$1T valuation) | AI sentiment broadly |
 
 ---
 
-## PORTFOLIO SUMMARY BY SECTOR
+## INSIDER & POLITICIAN SIGNAL TRACKER
 
-| Sector | Stocks | % of €3K | Why This Weight |
-|---|---|---|---|
-| **Energy Infrastructure** | VST, VRT, ETN | ~32% (~€950) | Strongest thesis (8/10). Real earnings. Politician confirmed. |
-| **Biotech / AI Drug** | SDGR, RLAY, XBI | ~28% (~€850) | Strong thesis (7/10). Catalysts in 2026. Binary risk managed by ETF. |
-| **EdTech / AI Applications** | DUOL | ~17% (~€500) | Best value on the board. 40% growth at 18x PE. Second-order AI play. |
-| **Robotics** | BOTZ | ~13% (~€400) | Diversified. Hardest to invest in individually. ETF is best approach. |
-| **Cash reserve** | — | ~10% (~€300) | For dips or new discoveries |
+| Signal | Stock | Date | Detail | Strength |
+|--------|-------|------|--------|----------|
+| **Pelosi BUY** | VST | Jan 16, 2026 | Exercised 50 calls → 5,000 shares. Still holding. | STRONG |
+| **Pelosi BUY** | TEM | Jan 16, 2026 | 5,000 shares Tempus AI | STRONG |
+| **Pelosi BUY** | AB | Jan 16, 2026 | 25,000 shares AllianceBernstein ($1-5M) | Defensive rotation |
+| **Pelosi LEAPS** | NVDA, AMZN, GOOGL | Dec 2025-Jan 2026 | Jan 2027 call options on all three | AI conviction |
+| **Pelosi SOLD** | AAPL, PYPL, DIS | Dec 2025 | Exiting legacy consumer | Bearish signal for consumer |
+| **CEVA insiders BUY** | CEVA | Prior months | CEO, CFO, Director all buying | **STRONGEST BUY** |
+| **SOUN insiders SELL** | SOUN | Mar 20, 2026 | CEO, CFO, COO, CTO all sold same day | **STRONGEST SELL** |
+| **Rep. Davidson** | GEV | 2025 | Top congressional performer (+78.8%) via GE/GEV | Energy infra validation |
+| **3 Congress members** | AVGO | Last 90 days | Cisneros, Capito, Taylor all bought | AI chip signal |
 
 ---
 
-## THE FINANCIALS CHECK (Did We Actually Check?)
+## MACRO DASHBOARD — April 2026
 
-Yes. Here's the honest financial health of every active pick:
+| Indicator | Level | Trend | Portfolio Impact |
+|-----------|-------|-------|-----------------|
+| S&P 500 | Down ~7% YTD | Bearish | Headwind on all holdings |
+| Recession odds | 35-49% (JPM/Moody's) | Rising | Risk to growth names |
+| Iran war | Ongoing, Hormuz disrupted | Elevated | Bullish for VST, AMSC |
+| Oil (Brent) | ~$92/bbl | Elevated | Stagflation risk |
+| Fed rate | 3.50-3.75% (hold) | Neutral | Compresses unprofitable names |
+| AI CapEx (Big 5) | $635-665B (+67-74% YoY) | Accelerating | Bullish for AI infra chain |
+| Manufacturing (ISM) | 9 months contraction | Bearish | Tariff impact |
+| AI bubble metrics | $400B burn / $50-60B revenue | Concerning | Not dot-com (debt-funded, not equity) |
+| DeepSeek V4 | Cheaper AI = more demand | Jevons Paradox | Bullish for energy/infra |
 
-| Stock | Revenue Growing? | Profitable? | Cash Runway | Debt Load | Financial Health |
-|---|---|---|---|---|---|
-| **SDGR** | Yes (+28% software) | No (improving, -$70M cut) | Adequate | Low | B — improving trajectory |
-| **VST** | Yes (EBITDA +19-33%) | **Yes, strongly** | N/A (profitable) | Moderate | **A** |
-| **VRT** | Yes (+28% organic) | **Yes** | N/A (profitable) | Moderate | **B+** |
-| **RLAY** | Pre-revenue | No | **$840M cash to 2027** | Very low | **A for biotech** (cash is king) |
-| **ETN** | Yes (+8-12%) | **Yes, A-grade** | N/A (profitable) | Low-moderate | **A** (ranked 47th of 5,000+ stocks) |
-| **DUOL** | **Yes (+40%)** | **Yes ($89M profit)** | Strong (ratio 2.82) | **Almost zero (0.07 D/E)** | **A+** — best financials on the board |
-| **BOTZ** | N/A (ETF) | N/A | N/A | N/A | N/A |
-| **XBI** | N/A (ETF) | N/A | N/A | N/A | N/A |
+---
 
-**DUOL has the best financials of any stock on our list.** 40% growth, profitable, no debt, strong cash. The only reason it's down 70% is fear of AI disruption — which is ironic because they're an AI company themselves.
+*This is personal research, not financial advice. All investing involves risk of loss. The author is an AI with no positions in any securities. Past performance does not guarantee future results. Do your own due diligence.*
