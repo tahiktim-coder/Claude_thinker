@@ -1,8 +1,8 @@
 # MASTER STOCK TABLE — Every Name We've Analyzed
 
-*Updated: April 1, 2026*
-*All prices approximate as of March 31 / April 1, 2026*
-*Previous update: March 10, 2026*
+*Updated: April 6, 2026*
+*All prices approximate as of April 6, 2026*
+*Previous update: April 1, 2026*
 
 ---
 
@@ -12,14 +12,14 @@
 
 | # | Ticker | Company | Sector | Price | Position Value | Change | Analyst PT | Verdict |
 |---|--------|---------|--------|-------|---------------|--------|-----------|---------|
-| 1 | **CEVA** | CEVA Inc | Edge AI / Semicon IP | ~$18.22 | $287.82 | -3.96% | $31.83 (Strong Buy) | **BEST PICK. HOLD + ADD.** Insiders buying. 7 Buy ratings. Near 52-wk low. Coiled spring. |
-| 2 | **INOD** | Innodata | AI Data Services | ~$37.12 | $219.96 | -11.91% | $100 (Strong Buy) | **HOLD.** Revenue +48% YoY. Palantir partnership. $25M gov contract. Customer concentration risk. |
-| 3 | **RXRX** | Recursion Pharma | Biotech/AI Drug | ~$2.87 | $132.66 | -11.44% | $6.71 | **TRIM.** Consensus pick = no edge. Near 52-wk low ($2.80). New CMO positive but thesis weak. |
-| 4 | **AMSC** | American Superconductor | Grid Infrastructure | ~$34.78 | $122.81 | **+22.93%** | $52 (Strong Buy) | **WINNER. HOLD.** Only green position. Backlog $250M+. Comtrafo acquisition. Grid thesis validated. |
-| 5 | **RLAY** | Relay Therapeutics | Biotech/AI Drug | ~$9.54 | $95.30 | -4.60% | $16.86 (Strong Buy) | **HOLD.** ESMO data excellent (11.1mo PFS, 43% ORR). FDA BTD. Cash to 2029. Phase 3 enrolling. |
-| 6 | **SDGR** | Schrodinger | Biotech/Software | ~$11.01 | $83.91 | -16.00% | $25 median | **HOLD FOR CATALYST.** SGR-3515 data Q2 2026. 17.5% short interest. High risk but asymmetric. |
-| 7 | **VST** | Vistra | Energy/Power | ~$155 | $74.67 | -0.31% | $234 (Buy) | **HOLD + ADD.** Pelosi confirmed Jan 2026. Fitch upgrade. EBITDA +22% YoY. Iran = bullish. |
-| 8 | **SOUN** | SoundHound AI | Voice AI | ~$5.93 | $61.83 | -20.20% | $14.93 | **SELL.** C-suite mass selling Mar 20. Hit 52-wk low. Revenue growth decelerating. Dead weight. |
+| 1 | **INOD** | Innodata | AI Data Services | ~$37 | $367.96 | -7.90% | $100 (Strong Buy) | **HOLD. STOP ADDING.** Revenue +48% YoY. Palantir partnership. But 33.4% of portfolio = dangerous concentration. |
+| 2 | **CEVA** | CEVA Inc | Edge AI / Semicon IP | ~$19 | $303.38 | **+1.22%** | $31.83 (Strong Buy) | **BEST PICK. HOLD + ADD.** Turned green. Insiders buying. 7 Buy ratings. Coiled spring. |
+| 3 | **RXRX** | Recursion Pharma | Biotech/AI Drug | ~$2.80 | $136.55 | -8.84% | $6.71 | **TRIM.** Consensus pick = no edge. Near 52-wk low. Fourth review saying this. |
+| 4 | **RLAY** | Relay Therapeutics | Biotech/AI Drug | ~$10+ | $124.99 | **+25.11%** | $16.86 (Strong Buy) | **STAR. HOLD.** Best performer. ESMO data confirmed. FDA BTD. Cash to 2029. Phase 3 enrolling. |
+| 5 | **AMSC** | American Superconductor | Grid Infrastructure | ~$34 | $117.84 | **+17.96%** | $52 (Strong Buy) | **WINNER. HOLD.** Consistent green. Backlog $250M+. Grid thesis validated. |
+| 6 | **SDGR** | Schrodinger | Biotech/Software | ~$10 | $85.68 | -14.23% | $25 median | **HOLD FOR CATALYST.** SGR-3515 data Q2 2026. Worst performer but binary catalyst ahead. |
+| 7 | **VST** | Vistra | Energy/Power | ~$155 | $75.11 | +0.27% | $234 (Buy) | **HOLD + ADD.** Pelosi confirmed. Fitch upgrade. EBITDA +22% YoY. Underweight — needs more. |
+| 8 | **SOUN** | SoundHound AI | Voice AI | ~$5.80 | $61.47 | -20.67% | $14.93 | **SELL (4th warning).** C-suite mass sold. Revenue decelerating. Dead weight. |
 
 ### WATCHLIST (Interesting but Not Yet Owned)
 
@@ -59,11 +59,11 @@
 
 | Sector | Current % | Target % | Action Needed |
 |--------|----------|----------|--------------|
-| Edge AI / Semicon IP (CEVA) | 30.8% | 20-25% | Slightly over but best pick — acceptable |
-| AI Data Services (INOD) | 23.6% | 15-20% | Slightly over — hold, don't add |
-| Biotech / AI Drug (RXRX, RLAY, SDGR) | 33.4% | 20-25% | OVERWEIGHT — trim RXRX |
-| Energy / Grid (AMSC, VST) | 21.2% | 25-30% | UNDERWEIGHT — add more |
-| Voice AI / Speculative (SOUN) | 6.6% | 0% | SELL |
+| AI Data Services (INOD) | 33.4% | 15-20% | **SEVERELY OVERWEIGHT** — stop adding, let it grow into allocation |
+| Edge AI / Semicon IP (CEVA) | 27.5% | 20-25% | Slightly over but best pick — acceptable |
+| Biotech / AI Drug (RXRX, RLAY, SDGR) | 31.5% | 20-25% | OVERWEIGHT — trim RXRX |
+| Energy / Grid (AMSC, VST) | 17.5% | 25-30% | UNDERWEIGHT — priority for new capital |
+| Voice AI / Speculative (SOUN) | 5.6% | 0% | SELL |
 
 ---
 
